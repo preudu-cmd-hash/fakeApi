@@ -45,18 +45,6 @@
   ],
   "compras": [
     {
-      "id": "9758",
-      "name": "asd",
-      "cardNumber": "4654654655",
-      "expiry": "1212",
-      "cvv": "455",
-      "cidade": "asdáp",
-      "estado": "apsdlpasd",
-      "endereco": "asdasd",
-      "cep": "45645646",
-      "carrinho": []
-    },
-    {
       "id": "0320",
       "name": "Pedro",
       "cardNumber": "456465465",
